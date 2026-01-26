@@ -6,10 +6,10 @@ export default function Home() {
           Hello, World!
         </h1>
         <p className="text-lg text-foreground/60">
-          Welcome to the Claude Code Workshop. This is your blank canvas.
+          Welcome to the Agentic Coding Workshop. This is your blank canvas.
         </p>
         <div className="pt-4 text-sm text-foreground/50">
-          <p>Ready to build something? Try asking Claude to:</p>
+          <p>Ready to build something? Try:</p>
           <ul className="mt-2 space-y-1">
             <li>• Add a public API integration</li>
             <li>• Create a new page with a form</li>

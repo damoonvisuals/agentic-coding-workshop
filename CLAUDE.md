@@ -277,3 +277,5 @@ Browse icons at: https://lucide.dev/icons
 | `npm run dev` | Start development server on port 3000 |
 | `npm run build` | Build for production |
 | `npm run lint` | Run ESLint |
+| `npm test` | Run Jest unit tests (config in `jest.config.js`, tests in `__tests__/`) |
+| `npm run test:watch` | Run Jest in watch mode |
